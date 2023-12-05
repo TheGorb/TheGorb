@@ -20,7 +20,7 @@ With a knack for creating robust and scalable web solutions, I am currently honi
 
 ### Educational Journey
 
-- 🎓 Bachelor of Technology in IT from Epitech (2018 - 2023).
+- 🎓 Bachelor of Technology in IT from Epitech (2019 - 2024).
 - 📈 Specializing in FinTech with a focus on market analysis tools and data science.
 - 🌐 Event manager and promoter of diversity in the IT field.
 
